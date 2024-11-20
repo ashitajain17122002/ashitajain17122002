@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitajain&label=Profile%20views&color=0e75b6&style=flat" alt="ashitajain" /> </p>
 
-- 🔭 I’m currently working on **Sign language detector**
+- 🔭 I’m currently working on **Customer Segmentation**
 
 - 🌱 I’m currently learning **Frameworks, libraries, courses, etc**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **ashitajain17122002@gmail.com**
 
